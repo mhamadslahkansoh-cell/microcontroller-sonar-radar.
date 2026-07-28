@@ -9,13 +9,14 @@ A real-time ultrasonic sonar/radar tracking system built with a microcontroller,
 
 ![Hardware Output](Screenshot%202026-07-09%20150526.png)
 ---
-
+![Telegram Alert Notification](Screenshot%202026-07-09%20150526.png)
 ## 🌟 Key Features
 * **180° Sweep Scan:** Smooth servo motor control sweeping continuously from 0° to 180°.
 * **Real-time Target Tracking:** Ultrasonic distance detection mapped dynamically in degrees and centimeters.
 * **Custom Pygame GUI:** Visual radar sweep animation showing detected obstacles with dynamic threat indicators and distance grid rings.
 * **Serial Communication:** Fast and reliable UART data transmission between the microcontroller and Python host.
-
+* **📲 Automated Telegram IoT Alerts:** Instant non-blocking Telegram notifications sent when an object enters the proximity zone (<= 20 cm) with localized zone identification (Left, Center, Right).
+* **Robust Connectivity:** Non-blocking background Wi-Fi reconnection handling.
 ---
 
 ## 🛠️ Hardware & Tools Used
