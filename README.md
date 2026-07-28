@@ -4,12 +4,13 @@ Ultrasonic Sonar/Radar tracking system using a microcontroller, servo motor, and
 
 A real-time ultrasonic sonar/radar tracking system built with a microcontroller, a servo motor, an HC-SR04 ultrasonic sensor, and a custom interactive graphical interface built in Python using Pygame.
 ###  System Preview
+### 📸 System & Telegram Notifications Preview
 
-![Radar Interface](Screenshot%202026-07-09%20224936.png)
+![Radar Pygame Interface](Screenshot%202026-07-09%20224936.png)
+
+![Telegram Alert Message](Screenshot%202026-07-28%20191203.png)
 
 ![Hardware Output](Screenshot%202026-07-09%20150526.png)
----
-![Telegram Alert Notification](Screenshot%202026-07-09%20150526.png)
 ## 🌟 Key Features
 * **180° Sweep Scan:** Smooth servo motor control sweeping continuously from 0° to 180°.
 * **Real-time Target Tracking:** Ultrasonic distance detection mapped dynamically in degrees and centimeters.
