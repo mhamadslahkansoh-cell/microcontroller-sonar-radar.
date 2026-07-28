@@ -3,7 +3,11 @@ Ultrasonic Sonar/Radar tracking system using a microcontroller, servo motor, and
 # 📡 Microcontroller-Based Ultrasonic Radar System
 
 A real-time ultrasonic sonar/radar tracking system built with a microcontroller, a servo motor, an HC-SR04 ultrasonic sensor, and a custom interactive graphical interface built in Python using Pygame.
+###  System Preview
 
+![Radar Interface](Screenshot%202026-07-09%20224936.png)
+
+![Hardware Output](Screenshot%202026-07-09%20150526.png)
 ---
 
 ## 🌟 Key Features
